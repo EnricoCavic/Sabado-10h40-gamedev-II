@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b02e8fbbac359a40ab17c1c986161a2, type: 3}
+  m_Name: Manolo
+  m_EditorClassIdentifier: 
+  ataque: 0
+  defesa: 0
+  vida: 0
+  tamanhoDoSapato: 0
+  custo: 0
+  seguroDeVida: 0
+  chavePix: 0
+  IPTU: 0
+  efeito: Tum
+  comidaFavorita: Bife
+  elemento: Colombiano
+  placaDoCarro: 4jh7lfj
+  email: manolo@enois.com
